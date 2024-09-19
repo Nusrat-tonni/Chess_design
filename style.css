@@ -1,0 +1,28 @@
+.outer{
+    height: 800px;
+    width: 800px;
+   border: 1px solid black ;
+   margin-left: 200px;
+}
+.box{
+    height: 100px;
+    width: 800px;
+  background: dimgrey;
+  box-sizing: border-box;
+  float: left;
+}
+.black{
+
+ height: 100px;
+    width: 100px;
+  background:black;
+  box-sizing: border-box;
+  float: left;
+}
+.white{
+    height: 100px;
+    width: 100px;
+  background:white;
+  box-sizing: border-box;
+  float: left;
+}
